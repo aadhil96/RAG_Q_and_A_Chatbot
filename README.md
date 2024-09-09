@@ -4,7 +4,7 @@ This project is a web-based question-answering (Q&A) application built using **S
 
 ## Screenshot 
 
-https://github.com/aadhil96/RAG_Q_and_A_Chatbot/edit/main/Capture.JPG
+Capture.JPG
 
 ## Features
 
